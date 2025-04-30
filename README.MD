@@ -32,10 +32,11 @@ Developed with NestJS (backend), React (frontend), MongoDB (database).
 
 ##  Installation Instructions
 
-### 1. Clone repo
+### 1. Clone repos
 ```bash
-git clone https://github.com/rut-kramer/Phishing-Simulation.git
-cd phishing-app
+git clone https://github.com/rut-kramer/phishing-simulation-front.git
+git clone https://github.com/rut-kramer/phishing-attempt-management.git
+git clone https://github.com/rut-kramer/phishing-simulation-service.git
 
 ### 2. Install backend dependencies
 
