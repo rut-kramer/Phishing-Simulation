@@ -1,0 +1,9 @@
+[submodule "phishing-simulation-service"]
+	path = phishing-simulation-service
+	url = https://github.com/rut-kramer/phishing-simulation-service.git
+[submodule "phishing-attempt-management"]
+	path = phishing-attempt-management
+	url = https://github.com/rut-kramer/phishing-attempt-management.git
+[submodule "phishing-simulation-front"]
+	path = phishing-simulation-front
+	url = https://github.com/rut-kramer/phishing-simulation-front.git
